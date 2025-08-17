@@ -1,0 +1,128 @@
+############################################################
+#                       Informações                        #
+#       Estruturado para consulta do Agente de IA          #
+############################################################
+
+# PERFIL
+---------
+**Nome:** Fabrício Fernandes Silva Vale  
+**Cargo Atual:** Analista de Desenvolvimento de Sistemas  
+**Localização:** Mossoró-RN, Brasil  
+**Data de Nascimento:** 03/01/1992  
+**Estado Civil:** Casado  
+
+**Contato:**  
+- LinkedIn: [linkedin.com/in/fabrício-vale-6713b998](https://www.linkedin.com/in/fabrício-vale-6713b998/)  
+- GitHub: [github.com/fabriciovale20](https://github.com/fabriciovale20)  
+- Portfólio: [portfolio-fabriciovale.vercel.app](https://portfolio-fabriciovale.vercel.app)  
+
+---
+
+# EXPERIÊNCIA PROFISSIONAL
+---------------------------
+
+## Grupo TCM Telecom – Mossoró-RN
+- **Analista de Desenvolvimento de Sistemas** (Out. 2023 - Atual)  
+  - Desenvolvimento e implementação de Agentes de IA  
+  - Aplicação de ferramentas de IA para otimização de processos  
+  - Pesquisa em tecnologias emergentes  
+  - Desenvolvimento Fullstack (Python, Django, Flask, PHP, JS, HTML, CSS, Bootstrap)  
+  - Criação de automações com Python e Selenium  
+  - APIs REST  
+  - Suporte técnico, helpdesk e monitoramento de servidores  
+  - Provisionamento e monitoramento de OLTs (Fiberhome, ZTE, Huawei)  
+  - Análise de dados e relatórios  
+  - Versionamento de código (Git, GitHub)  
+  - Gerenciamento de projetos (Kanban, Trello, ClickUp)  
+
+- **Analista de Sistemas** (Abr. 2023 - Out. 2023)  
+- **Analista de Suporte a Sistemas** (Out. 2021 - Abr. 2023)  
+- **Atendente Expedição** (Jul. 2018 - Out. 2021)  
+- **Atendente Controle Técnico** (Mar. 2018 - Jul. 2018)  
+- **Auxiliar de Instalação** (Jan. 2018 - Mar. 2018)  
+
+## VCI TECH – Mossoró-RN
+- **Auxiliar Técnico de Informática** (Mar. 2017 - Out. 2017)  
+
+## MIKROCENTER – Mossoró-RN
+- **Auxiliar Técnico Nível 30** (Nov. 2012 - Mai. 2013)  
+
+## SKANSKA BRASIL LTDA – Mossoró-RN
+- **Auxiliar de Suporte Técnico em Informática (Jovem Aprendiz)** (Out. 2011 - Out. 2012)  
+
+---
+
+# FORMAÇÃO
+-----------
+
+- **Engenharia de Machine Learning (Especialização)** – ANHANGUERA  
+  Ago. 2025 - Jun. 2026  
+
+- **Gestão e Governança de TI (Especialização)** – ANHANGUERA  
+  Ago. 2025 - Maio. 2026  
+
+- **Inteligência Artificial para Desenvolvedores (Especialização)** – ANHANGUERA  
+  Abr. 2025 - Out. 2025  
+
+- **Análise e Desenvolvimento de Sistemas (Tecnólogo)** – UNIASSELVI  
+  Jun. 2020 - Jun. 2023  
+
+---
+
+# CURSOS
+---------
+
+- 2025 - Fundamentos para uma Carreira em IA Generativa – Microsoft & LinkedIn  
+- 2024 - REST APIs com Python e Flask – Udemy  
+- 2023 - Fundamentos em Python – Grupo Voitto  
+- 2021 - Python Framework Django – Python Pro  
+- 2021 - Programador Web – UFRN  
+- 2020-2021 - Programador de Dispositivos Móveis – UFRN  
+
+---
+
+# COMPETÊNCIAS
+---------------
+
+- Engenharia de Prompt  
+- Análise de Requisitos  
+- Comunicação e Trabalho em Equipe  
+- Pensamento Analítico  
+- Projetos Ágeis (Scrum, Kanban)  
+- Inovação e Melhoria de Processos  
+- Criação de Documentação  
+
+---
+
+# HABILIDADES TÉCNICAS
+-----------------------
+
+- **Linguagens & Frameworks:** Python, Django, Flask, PHP, JavaScript, HTML, CSS, Bootstrap  
+- **Automação & RPA:** Selenium, PyAutoGui  
+- **APIs:** REST API  
+- **Banco de Dados:** MySQL, PostgreSQL, SQL  
+- **Versionamento:** Git, GitHub  
+- **Gerenciamento:** Projetos, Bancos de Dados, Kanban, Trello, ClickUp  
+- **IA:** Inteligência Artificial, Desenvolvimento de Agentes de IA  
+- **Outros:** Pacote Office  
+
+---
+
+# IDIOMAS
+----------
+
+- **Português:** Fluente / Nativo  
+- **Inglês:** Básico (Leitura e Escrita)  
+
+---
+
+# PROJETOS
+-----------
+
+- **Portfólio:** [portfolio-fabriciovale.vercel.app](https://portfolio-fabriciovale.vercel.app)  
+- **Portal do Aluno:** [github.com/fabriciovale20/portal-aluno](https://github.com/fabriciovale20/portal-aluno)  
+- **Questionário Best Day:** [github.com/fabriciovale20/best_day_jc](https://github.com/fabriciovale20/best_day_jc)  
+- **Adivinhe o Número:** [github.com/fabriciovale20/adivinhe-o-numero](https://github.com/fabriciovale20/adivinhe-o-numero)  
+- **Página de Busca:** [github.com/fabriciovale20/mypage](https://github.com/fabriciovale20/mypage)  
+
+############################################################
