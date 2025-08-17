@@ -170,7 +170,7 @@ if st.session_state.limpar_input:
 
 st.text_input(
     "Digite sua pergunta:",
-    placeholder="Ex: Como realizar acesso remoto?",
+    placeholder="Ex: Qual seu nome?",
     key="input_text",
     disabled=st.session_state.carregando,
     on_change=enviar_pergunta
@@ -188,7 +188,7 @@ if st.session_state.responder:
     # Formata a data e a hora no formato desejado 🟡
     data_pergunta = hora_pergunta.strftime("%d/%m/%Y %H:%M:%S")
     print(f'Pergunta: {data_pergunta}')
-    with st.spinner("Gentil está pensando..."):
+    with st.spinner("Pnsando..."):
         resposta = gerar_resposta(st.session_state.pergunta_enviada)
         hora_resposta = datetime.now()
         data_resposta = hora_resposta.strftime("%d/%m/%Y %H:%M:%S")
